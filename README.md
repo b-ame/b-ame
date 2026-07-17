@@ -10,8 +10,7 @@ I'm currently improving my Java, Python, and SQL skills while building personal 
 - **Database:** MySQL
 - **Version Control:** Git, GitHub
 - **Development Tools:** Jupyter Notebook, VS Code
-- **Interests:**
-- Artificial Intelligence
+- **Interests:** Artificial Intelligence
 ---
 ☕ "One day you'll leave this world behind, so live a life you will remember."
 
