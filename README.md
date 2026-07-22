@@ -3,7 +3,7 @@
 ## 👩‍💻 Who am I?
 I'm a Software Engineer focused on Automation and Artificial Intelligence. I'm passionate about building reliable software, automating processes, and applying AI to solve real-world problems.
 
-I'm currently improving my Java, Python, and SQL skills while building personal projects, exploring backend development and software architecture, and developing automation and AI solutions.
+I'm currently improving my Python and SQL skills while building personal projects, exploring and developing automation and AI solutions.
 
 ## Tools & Technologies
 - ** Languages: Python, SQL
