@@ -6,11 +6,11 @@ I'm a Software Engineer focused on Automation and Artificial Intelligence. I'm p
 I'm currently improving my Python and SQL skills while building personal projects, exploring and developing automation and AI solutions.
 
 ## Tools & Technologies
-- **Languages: Python, SQL
-- **AI & Automation: n8n, AI APIs, Prompt Engineering
-- **Databases: MySQL
-- **Version Control: Git, GitHub
-- **Development Tools: Jupyter Notebook, VS Code
+- Languages: Python, SQL
+- AI & Automation: n8n, AI APIs, Prompt Engineering
+- Databases: MySQL
+- Version Control: Git, GitHub
+- Development Tools: Jupyter Notebook, VS Code
 ---
 ☕ "One day you'll leave this world behind, so live a life you will remember."
 
