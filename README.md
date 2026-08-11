@@ -9,8 +9,7 @@ I'm currently improving my Python and SQL skills while building personal project
 - Languages: Python, SQL
 - AI & Automation: n8n, AI APIs, Prompt Engineering
 - Databases: MySQL
-- Version Control: Git, GitHub
-- Development Tools: Jupyter Notebook, VS Code
+- Tools: Git, GitHub, Jupyter Notebook, VS Code
 ---
 ☕ "One day you'll leave this world behind, so live a life you will remember."
 
